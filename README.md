@@ -1,1 +1,1 @@
-# Axit_template
+# Landing page example
